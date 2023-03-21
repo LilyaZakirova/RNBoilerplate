@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run performance tests
-        run: ./reassure-tests.sh
+        run: ../../reassure-tests.sh
 
       - name: Run Danger.js
         run: yarn danger ci
