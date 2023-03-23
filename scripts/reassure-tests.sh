@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -e
 
 BASELINE_BRANCH=${BASELINE_BRANCH:="main"}

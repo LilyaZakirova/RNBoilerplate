@@ -118,6 +118,7 @@
     "query-string": "^7.0.1",
     "react-devtools-core": "4.24.7",
     "react-dom": "18.1.0",
+    "react-native-flipper-performance-plugin": "^0.4.0",
     "react-native-web": "~0.18.7",
     "reactotron-core-client": "^2.8.10",
     "reassure": "^0.7.2",
